@@ -2,7 +2,7 @@
 
 [![Tests](https://github.com/tree-s/shiftcrypto/actions/workflows/ci.yml/badge.svg)](https://github.com/tree-s/shiftcrypto/actions/workflows/ci.yml) [![Excavator](https://github.com/tree-s/shiftcrypto/actions/workflows/excavator.yml/badge.svg)](https://github.com/tree-s/shiftcrypto/actions/workflows/excavator.yml)
 
-Bucket for [shiftcrypto](https://shiftcrypto.ch/), the bitcoin/etherium hardware wallet.
+Bucket for [shiftcrypto](https://shiftcrypto.ch/), the bitcoin/ethereum hardware wallet.
 
 How do I install these manifests?
 ---------------------------------
